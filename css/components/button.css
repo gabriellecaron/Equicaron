@@ -1,0 +1,17 @@
+.btn-avatar{
+	border-radius: 5px;
+	margin: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 50%;
+	background-color: #321F28;
+}
+
+.btn-avatar:hover {
+	background-color: #C56183;
+	transition: 0.3s;
+}

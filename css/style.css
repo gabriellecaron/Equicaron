@@ -1,0 +1,16 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/sidenav.css");
+@import url("components/logo.css");
+@import url("components/herobanner.css");
+@import url("components/card.css");
+@import url("components/calendar.css");
+@import url("components/flexboxalign.css");
+
+body, p, h2, h3{
+	color: black;
+	font-family: 'Raleway', 'serif';
+	text-align: center;
+}
+

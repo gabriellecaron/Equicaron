@@ -1,0 +1,10 @@
+.container {
+  margin-left: 260px; /* Same as the width of the sidenav */
+  font-size: 20px; /* Increased text to enable scrolling */
+  padding: 0px 22px;
+}
+
+.container-content{
+margin-top: 10px
+
+}
